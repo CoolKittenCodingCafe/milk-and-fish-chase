@@ -8,6 +8,6 @@ You will need to download Python from [python.org](https://www.python.org/downlo
 ## Newbies
 If Python and Pygame are installed on your computer, but you have never run a game file and don't know how to do it, please watch this [video](https://youtu.be/DaTolXUwSyw).
 
-*In this version of the game, the milk and fish are trying to avoid the cat. Feel free to play around with the code. Make them still, make them move differently, add more enemies, change the movements of the enemy, change the size of the sprites. 
+*In this version of the game, the milk and fish are trying to avoid the cat. Feel free to play around with the code. Make them still, make them move differently, add more enemies, change the movements of the enemy, change the size of the sprites.* 
 
-**All graphic assets by the Cool Kitten Coding Café. [Give credit by linking back to the YouTube channel](https://www.youtube.com/channel/UCKBJP6e5AG65zn3AZzKRVgQ?view_as=subscriber). Sharing is caring. Thanks :)
+**All graphic assets by the Cool Kitten Coding Café. [Give credit by linking back to the YouTube channel](https://www.youtube.com/channel/UCKBJP6e5AG65zn3AZzKRVgQ?view_as=subscriber). Sharing is caring. Thanks :)**
