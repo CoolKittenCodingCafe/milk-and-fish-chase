@@ -105,7 +105,7 @@ class Game:
                 enemy1.guard_move(self.width)
                 enemy1.draw(self.game_screen)
 
-            # End game if collision between player and enemy0 ca marche
+            # End game if collision between player and enemy0
             if hero.collision_detection(enemy0):
                 game_over = True
                 won = False
